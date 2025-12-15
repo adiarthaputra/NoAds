@@ -6,7 +6,8 @@ export function Download() {
 
   const randomUrls = [
     'https://otieu.com/4/10069259',
-    'https://viikqoye.com/dc/?blockID=399448'
+    'https://viikqoye.com/dc/?blockID=399448',
+    'https://spryweekend.com/vVZTE9'
   ];
   
   const handleDownload = () => {
