@@ -14,6 +14,7 @@ export const VerifLink: React.FC = () => {
     'https://spryweekend.com/vVZTE9'
   ];
 
+
   const getRandomAdUrl = () => {
     const randomIndex = Math.floor(Math.random() * adUrls.length);
     return adUrls[randomIndex];
