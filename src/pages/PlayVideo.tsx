@@ -36,8 +36,9 @@ export function PlayVideo() {
 
   const randomUrls = [
     'https://otieu.com/4/10069259',
-    'https://viikqoye.com/dc/?blockID=399448'
-    'https://viiukuhe.com/dc/?blockID=410871'
+    'https://viikqoye.com/dc/?blockID=399448',
+    'https://viiukuhe.com/dc/?blockID=410871',
+    'https://spryweekend.com/vVZTE9'
   ];
 
   useEffect(() => {
